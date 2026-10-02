@@ -1,0 +1,11 @@
+[functions.weather]
+verify_jwt = true
+
+[functions.agricultural-news]
+verify_jwt = true
+
+[functions.agricultural-alerts]
+verify_jwt = true
+
+[functions.market-data]
+verify_jwt = true
